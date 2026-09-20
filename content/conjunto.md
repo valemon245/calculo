@@ -1,7 +1,6 @@
 ---
 Created: 2024-03-29
 ---
-# conjunto
 
 >[!abstract] definición
 >una colección sin orden de objetos, llamados elementos, que son distintos.

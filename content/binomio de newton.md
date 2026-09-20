@@ -7,14 +7,16 @@ Created: 2024-05-20
 >fórmula para calcular las potencias de un binomio, siendo el exponente un entero positivo.
 
 veamos como se desarrollan las potencias del binomio $(a+b)$:
-$$\begin{aligned}
-&(a+b)^{1}=a+b\\
-&(a+b)^{2}=(a+b)\cdot(a+b)=a^{2}+2ab+b^{2}\\
-&(a+b)^{3}=(a+b)^{2}\cdot(a+b)=(a^{2}+2ab+b^{2})\cdot(a+b)=a^{3}+3a^{2}b+3ab^{2}+b^{3}\\
-&(a+b)^{4}=(a+b)^{3}\cdot(a+b)=(a^{3}+3a^{2}b+3ab^{2}+b^{3})\cdot(a+b)=a^4+4a^3b+6a^2b^2+4ab^3+b^4\\
-&\dots\dots\dots\\
-&(a+b)^{n}=\;?
-\end{aligned}$$
+$$  
+\begin{aligned}  
+(a+b)^{1} &= a+b\  
+(a+b)^{2} &= (a+b)\cdot(a+b)=a^{2}+2ab+b^{2}\  
+(a+b)^{3} &= (a+b)^{2}\cdot(a+b)=(a^{2}+2ab+b^{2})\cdot(a+b)=a^{3}+3a^{2}b+3ab^{2}+b^{3}\  
+(a+b)^{4} &= (a+b)^{3}\cdot(a+b)=(a^{3}+3a^{2}b+3ab^{2}+b^{3})\cdot(a+b)=a^{4}+4a^{3}b+6a^{2}b^{2}+4ab^{3}+b^{4}\  
+&\vdots\  
+(a+b)^{n} &= ;?  
+\end{aligned}  
+$$
 
 usando [[número combinatorio|números combinatorios]], podemos definir una fórmula para conocer la potencia de $(a+b)^n$:
 $$(a+b)^n={n \choose 0}a^nb^0+{n \choose 1}a^{n-1}b^1+{n \choose 2}a^{n-2}b^2+\dots+{n \choose n-1}a^{n-(n-1)}b^{n-1}+{n \choose n}a^{n-n}b^n$$

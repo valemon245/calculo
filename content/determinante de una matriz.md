@@ -3,7 +3,6 @@ Created: 2024-06-24
 aliases:
   - determinante
 ---
-# determinante de una matriz
 
 >[!abstract] definición
 >[[función]] que asigna un número o escalar a una [[matriz cuadrada]] a partir de sus elementos.
@@ -11,15 +10,15 @@ aliases:
 teniendo una [[matriz]] $A$, el determinante es una función de $\mathbb{K}^{n\times n}\to \mathbb{K}$ y se define dependiendo del orden de nuestra matriz.
 
 si $n=1$, decimos que:
-$$\large |\;|:\mathbb{K}^{1\times 1}\to \mathbb{K}/|A| = |a_{11}| = a_{11}$$
+$$|\;|:\mathbb{K}^{1\times 1}\to \mathbb{K}/|A| = |a_{11}| = a_{11}$$
 
 si $n=2$, decimos que:
-$$\large |\;|:\mathbb{K}^{2\times 2}\to \mathbb{K}/|A| = \begin{vmatrix}a_{11}&a_{12}\\a_{21}&a_{22}\end{vmatrix} = a_{11}\cdot a_{22}-a_{12}\cdot a_{21}$$
+$$|\;|:\mathbb{K}^{2\times 2}\to \mathbb{K}/|A| = \begin{vmatrix}a_{11}&a_{12}\\a_{21}&a_{22}\end{vmatrix} = a_{11}\cdot a_{22}-a_{12}\cdot a_{21}$$
 
 - es decir, $|A|$ es igual a la resta de los productos de los elementos en las diagonales de la matriz.
 
 si $n\geq 3$, decimos que:
-$$\large |\;|:\mathbb{K}^{n\times n}\to \mathbb{K}/|A| = \sum_{j=1}^n a_{ij}\cdot (-1)^{i+j}\cdot \Big|A_{(i,j)}\Big|,\;\;con\:1\leq i\leq n$$
+$$|\;|:\mathbb{K}^{n\times n}\to \mathbb{K}/|A| = \sum_{j=1}^n a_{ij}\cdot (-1)^{i+j}\cdot \Big|A_{(i,j)}\Big|,\;\;con\:1\leq i\leq n$$
 
 - ver [[regla de laplace]].
 - si $n=3$, también podemos usar la [[regla de sarrus]].

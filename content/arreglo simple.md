@@ -23,10 +23,10 @@ a diferencia del [[arreglo con repetición]], los elementos no se pueden repetir
 - en el último lugar, como ya se usaron $(n-1)$ de los elementos, podemos decir que quedan $m-(n-1)$ posibilidades por cada una de las anteriores.
 
 hay una relación entre un arreglo $A_{n}^{m}$ y la [[función factorial]]. esa relación es:
-$$m! =\underbrace{m\cdot(m-1)\cdot(m-2)\cdot\dots\cdot(m-n+1)}_{\Huge\textcolor{red}{A_n^m \text{ (cuando } m\neq n\text{)}}}\cdot\underbrace{(m-n)\cdot(m-n-1)\cdot\dots\cdot3\cdot2\cdot1}_{\Huge\textcolor{blue}{ (m-n)!}}$$
+$$m! =\underbrace{m\cdot(m-1)\cdot(m-2)\cdot\dots\cdot(m-n+1)}_{\textcolor{red}{A_n^m \text{ (cuando } m\neq n\text{)}}}\cdot\underbrace{(m-n)\cdot(m-n-1)\cdot\dots\cdot3\cdot2\cdot1}_{\textcolor{blue}{ (m-n)!}}$$
 
 por lo tanto, podemos decir que:
-$$\large m!=A_n^m\cdot(m-n)! \;\;\Rightarrow\;\; A_n^m=\frac{m!}{(m-n)!}$$
+$$m!=A_n^m\cdot(m-n)! \;\;\Rightarrow\;\; A_n^m=\frac{m!}{(m-n)!}$$
 
 ***
 

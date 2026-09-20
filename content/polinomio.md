@@ -9,7 +9,7 @@ aliases:
 >una expresión algebráica construida a partir de la suma/producto de términos o [[monomio|monomios]].
 
 llamamos polinomio de grado $n$, con coeficientes en $\mathbb{R}$, en una variable $x$, a la expresión de esta forma:
-$$\large P(x)=a_nx^n+a_{n-1}x^{n-1}+\dots+a_2x^2+a_1x+a_0$$
+$$ P(x)=a_nx^n+a_{n-1}x^{n-1}+\dots+a_2x^2+a_1x+a_0$$
 - $x$ es la variable o indeterminada.
 - $a_{0},a_{1},a_{2}\dots,a_{n}$ son los coeficientes.
 	- $a_{n}\neq 0$ es el **coeficiente principal**.
@@ -17,7 +17,7 @@ $$\large P(x)=a_nx^n+a_{n-1}x^{n-1}+\dots+a_2x^2+a_1x+a_0$$
 - $n\in\mathbb{N}$ es el **grado** del polinomio, igual al exponente del coeficiente principal.
 
 usando la [[notación sumatoria|sumatoria]], podemos decir que:
-$$\large P(x)=\sum_{i=0}^na_ix^i$$
+$$P(x)=\sum_{i=0}^na_ix^i$$
 
 ## tipos de polinomios
 un **polinomio nulo** es aquel cuyos coeficientes son todos iguales a 0. decimos que $P(x)=0$.

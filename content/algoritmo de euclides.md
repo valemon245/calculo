@@ -1,22 +1,23 @@
 ---
 Created: 2024-06-20
 ---
-# algoritmo de euclides
 
 >[!abstract] definición
 >algoritmo para hallar el [[máximo común divisor]] de dos [[números enteros]].
 
 teniendo $a,b\in\mathbb{Z}$ siendo $b\neq 0$, podemos hallar $mcd(a,b)$ de la siguiente forma:
 
-$$\large\begin{aligned}
-&a=b\cdot q + r, \; 0< r\leq |b| \\
-&b=r\cdot q_{2} + r_{2}, \; 0< r_{2}\leq |r| \\
-&r=r_{2}\cdot q_{3} + r_{3}, \; 0< r_{3}\leq |r_{2}| \\
-&r_{2}=r_{3}\cdot q_{4} + r_{4}, \; 0< r_{4}\leq |r_{3}| \\
+$$
+\begin{aligned}
+a &= b\cdot q + r, \; 0 < r \leq |b| \\
+b &= r\cdot q_{2} + r_{2}, \; 0 < r_{2} \leq |r| \\
+r &= r_{2}\cdot q_{3} + r_{3}, \; 0 < r_{3} \leq |r_{2}| \\
+r_{2} &= r_{3}\cdot q_{4} + r_{4}, \; 0 < r_{4} \leq |r_{3}| \\
 &\dots\dots\dots\\
-&r_{n-2}=r_{n-1}\cdot q_{n-1} + r_{n}, \; 0< r_{n}\leq |r_{n-1}| \\
-&r_{n-1}=r_{n}\cdot q_{n} + r_{n+1}, \; r_{n+1} = 0 
-\end{aligned}$$
+r_{n-2} &= r_{n-1}\cdot q_{n-1} + r_{n}, \; 0 < r_{n} \leq |r_{n-1}| \\
+r_{n-1} &= r_{n}\cdot q_{n} + r_{n+1}, \; r_{n+1} = 0
+\end{aligned}
+$$
 
 es decir, se itera el [[algoritmo de la división]] hasta que el resto sea igual a 0. cuando ocurre, podemos decir que $mcd(a,b)=r_{n}$.
 

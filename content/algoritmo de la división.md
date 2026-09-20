@@ -1,13 +1,12 @@
 ---
 Created: 2024-06-10
 ---
-# división euclídea
 
 >[!abstract] definición
 >teorema que asegura que la división entre [[números enteros]] es posible.
 
 teniendo $a,b\in\mathbb{Z}$ donde $b\neq 0$, podemos asociarlos a un $q,r\in\mathbb{Z}$ únicos tal que:
-$$\large a=b\cdot q+r, \text{ siendo } 0 \leqslant r \;\textless \;|b|$$
+$$a=b\cdot q+r, \text{ siendo } 0 \leqslant r \;\textless \;|b|$$
 - $a$ es el **dividendo**,
 - $b$ es el **divisor**,
 - $q$ es el **cociente**,

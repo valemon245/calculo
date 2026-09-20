@@ -14,7 +14,7 @@ una matriz de $m$ ecuaciones con $n$ incógnitas se puede asociar con cuatro mat
 - una matriz $A'$ o $A$ extendida.
 
 con las primeras tres podemos expresar un sistema de forma matricial de la siguiente forma:
-$$\large A_{(m\times n)}\cdot X_{(n\times 1)}=B_{(m\times1)}$$
+$$A_{(m\times n)}\cdot X_{(n\times 1)}=B_{(m\times1)}$$
 
 con las matrices, nos queda:
 $$\begin{bmatrix}a_{11}&a_{12}&a_{13}&\dots &a_{1n} \\

@@ -3,7 +3,6 @@ Created: 2024-03-29
 aliases:
   - conjunto potencia
 ---
-# conjunto de partes
 
 >[!abstract] definición
 >el [[conjunto]] de todos los subconjuntos de un conjunto.

@@ -1,7 +1,6 @@
 ---
 Created: 2024-03-28
 ---
-# cuantificación
 
 >[!abstract] definición
 >proceso por el cual le asignamos un [[dominio de la relación|dominio]] a una función proposicional, para que esta última pueda tener un valor de verdad factual como una [[proposición lógica|proposición]].

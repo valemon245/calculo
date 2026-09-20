@@ -11,7 +11,7 @@ la regla de laplace descompone el hallar el determinante de una matriz $A$ en c�
 antes de usar la fórmula, elegimos una fila (o columna) de nuestra matriz para desarrollar. es conveniente elegir la que tenga más ceros, ya que acorta el cálculo.
 
 una vez tenemos nuestra elección, definimos la regla de laplace como:
-$$\large |A| = \sum_{j=1}^n a_{ij}\cdot (-1)^{i+j}\cdot \Big|A_{(i,j)}\Big|,\;\;con\:1\leq i\leq n$$
+$$ |A| = \sum_{j=1}^n a_{ij}\cdot (-1)^{i+j}\cdot \Big|A_{(i,j)}\Big|,\;\;con\:1\leq i\leq n$$
 - $A_{(i,j)}$ es la [[matriz adjunta de un elemento]].
 
 usando la regla de laplace podemos llegar a determinantes que se pueden calcular usando otras reglas, como la [[regla de sarrus]].

@@ -12,7 +12,7 @@ $i$ se introduce para expandir los reales hacia un sistema de [[números complej
 
 ## potencias de $i$
 sabiendo que $i^{2}=-1$, podemos decir que:
-$$\large\begin{align}
+$$\begin{align}
 & i^{0} = 1 \\
 & i^{1} = i = \sqrt{ -1 }\\
 & i^{2} = -1 \\
@@ -29,7 +29,7 @@ sabiendo que las potencias de $i$ siguen un patrón de 4 posibles valores, podem
 la mejor forma de hacer esto es ver a cualquier exponente de $i$ como su división por 4 (ver [[algoritmo de la división]]).
 
 por ejemplo, tenemos $i^{42}$:
-$$\large\begin{align}
+$$\begin{align}
 i^{42} & = i^{4\cdot 10 + 2} \\
 & = i^{4\cdot 10} \cdot i^{2} \\
 & = (i^{4})^{10} \cdot i^{2} \\

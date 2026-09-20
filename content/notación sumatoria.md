@@ -14,7 +14,7 @@ aliases:
 simbólicamente, se representa usando la letra sigma mayúscula: $\sum$.
 
 la notación sumatoria tiene la siguiente estructura:
-$$\Large\sum_{\textcolor{yellow}{i=\textcolor{orange}{1}}}^{\textcolor{red}{n}}\textcolor{blue}{a_{\textcolor{yellow}{i}}}=\textcolor{blue}{a_{\textcolor{orange}{1}}+a_{\textcolor{yellow}{2}}+a_{\textcolor{yellow}{3}}+\dots +a_{\textcolor{red}{n}}}$$
+$$\sum_{\textcolor{yellow}{i=\textcolor{orange}{1}}}^{\textcolor{red}{n}}\textcolor{blue}{a_{\textcolor{yellow}{i}}}=\textcolor{blue}{a_{\textcolor{orange}{1}}+a_{\textcolor{yellow}{2}}+a_{\textcolor{yellow}{3}}+\dots +a_{\textcolor{red}{n}}}$$
 - lo que se halla al lado del sigma es *lo que se suma*. en este caso, $\textcolor{blue}{a_{\textcolor{yellow}{i}}}$.
 	- usamos $\textcolor{blue}{a_{\textcolor{yellow}{i}}}$ para aclarar que la suma se realiza una vez por cada valor posible de $\textcolor{yellow}{i}$, incluso si $\textcolor{yellow}{i}$ no está presente en el término que se está sumando. 
 		- a $\textcolor{yellow}{i}$ se le llama **índice**.

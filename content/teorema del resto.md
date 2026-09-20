@@ -11,10 +11,12 @@ es decir, $R(x)=P(b_{0})$.
 
 ## demostración
 usando el [[algoritmo de la división]], tenemos que:
-$$\large \begin{align}
-& P(x) = Q(x)\cdot C(x)+R \\
-& P(x) = (x-b_{0})\cdot C(x)+R \\
-& P(b_{0}) = (b_{0}-b_{0})\cdot C(b_{0})+R \\
-& P(b_{0}) = 0\cdot C(b_{0})+R \\
-& P(b_{0}) = 0+R = R
-\end{align}$$
+$$  
+\begin{aligned}  
+P(x) &= Q(x)\cdot C(x)+R \  
+P(x) &= (x-b_{0})\cdot C(x)+R \  
+P(b_{0}) &= (b_{0}-b_{0})\cdot C(b_{0})+R \  
+P(b_{0}) &= 0\cdot C(b_{0})+R \  
+P(b_{0}) &= 0+R=R  
+\end{aligned}  
+$$

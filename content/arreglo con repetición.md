@@ -1,7 +1,6 @@
 ---
 Created: 2024-05-20
 ---
-# arreglo con repetición
 
 >[!abstract] definición
 >todos los grupos diferentes que se pueden formar tal que:
@@ -11,7 +10,7 @@ Created: 2024-05-20
 concepto del [[análisis combinatorio]]. se lee “arreglos de los $m$ elementos distintos que se pueden repetir hasta $n$ veces”.
 
 a diferencia del [[arreglo simple]], los elementos se pueden repetir. podemos decir que:
-$$\large A_{n,r}^{m}=\underbrace{m\cdot m\cdot m\cdot\dots\cdot m}_{\Large n \text{ veces}}=m^{n}$$
+$$A_{n,r}^{m}=\underbrace{m\cdot m\cdot m\cdot\dots\cdot m}_{n \text{ veces}}=m^{n}$$
 
 un ejemplo: queremos conocer cuántos números de 3 cifras se pueden crear con $0,1,2,3,4,5,6$. 
 - como podemos notar, el primer lugar del número no puede ser 0, ya que nos quedaría un número de 2 cifras. nuestro primer lugar solo tiene 5 posibilidades.

@@ -7,7 +7,6 @@ aliases:
   - acotado inferiormente
   - acotado
 ---
-# conjunto acotado
 
 >[!abstract] definición
 >[[conjunto]] de [[números reales]] para el que existe un número real mayor/menor o igual que todos sus elementos.

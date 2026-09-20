@@ -7,16 +7,7 @@ Created: 2024-06-23
 >arreglo bidimensional de elementos dispuestos de forma rectangular.
 
 decimos que una matriz $m\times n$ tiene $m$ filas y $n$ columnas, siendo $m,n\in\mathbb{N}$. la matriz, entonces, se ve asÍ:
-$$\large A=\begin{align}
-&[a_{ij}]_{m\times n} \\ &\quad\quad \text{o} \\
-&(a_{ij})_{\substack{i=1,\dots,m\\ j=1,\dots,m}}
-\end{align} =
-\begin{bmatrix}
-a_{11}&a_{12}&a_{13}&\dots &a_{1n} \\
-a_{21}&a_{22}&a_{23}&\dots &a_{2n} \\
-\vdots&\vdots&\vdots&\dots&\vdots \\
-a_{m1}&a_{m2}&a_{m3}&\dots &a_{mn}
-\end{bmatrix}_{m\times n}$$
+$$ A = \begin{gathered} [a_{ij}]_{m\times n}\\ \text{o}\\ (a_{ij})_{\substack{i=1,\dots,m\\j=1,\dots,n}} \end{gathered} = \begin{bmatrix} a_{11} & a_{12} & a_{13} & \dots & a_{1n} \\ a_{21} & a_{22} & a_{23} & \dots & a_{2n} \\ \vdots & \vdots & \vdots & \dots & \vdots \\ a_{m1} & a_{m2} & a_{m3} & \dots & a_{mn} \end{bmatrix}_{m\times n} $$
 
 - las matrices se representan con mayúsculas, genéricamente $A$.
 - los elementos de $A$ se representan con minúsculas, genéricamente $a_{ij}$.
@@ -26,7 +17,7 @@ a_{m1}&a_{m2}&a_{m3}&\dots &a_{mn}
 - $m\times n$ es la **clase** o **dimensión** de la matriz.
 
 una matriz vive en el conjunto $\mathbb{K}^{m\times n}$, donde $\mathbb{K}$ puede ser el conjunto de los [[números racionales|racionales]], [[números reales|reales]] o [[números complejos|complejos]]. podemos definir a $\mathbb{K}^{m\times n}$ como:
-$$\large \mathbb{K}^{m\times n}= \{ A=(a_{ij})_{\substack{i=1,\dots,m\\ j=1,\dots,m}} / a_{ij}\in\mathbb{K} \}$$
+$$\mathbb{K}^{m\times n}= \{ A=(a_{ij})_{\substack{i=1,\dots,m\\ j=1,\dots,m}} / a_{ij}\in\mathbb{K} \}$$
 - nótese la diferencia con los elementos de la matriz, quienes pertenecen a $\mathbb{Q}$, $\mathbb{R}$ o $\mathbb{C}$.
 - simbólicamente, decimos que $A\in\mathbb{K}^{m\times n}$.
 	- alternativamente, $A\in \mathcal{M}_{m\times n}(\mathbb{K})$.

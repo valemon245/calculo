@@ -7,7 +7,7 @@ Created: 2024-06-21
 >reglas y propiedades para la operación de suma en los [[números complejos]].
 
 siendo $z=(a,b)$ y $w=(c,d)$, la suma de dos complejos se define como:
-$$\large z+w=(a,b)+(c,d)=(a+c,b+d)$$
+$$z+w=(a,b)+(c,d)=(a+c,b+d)$$
 
 ## propiedades
 se verifican los siguientes axiomas:

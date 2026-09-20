@@ -13,12 +13,15 @@ aliases:
 >algunas fuentes usan “matriz adjunta” para referirse a la matriz de cofactores _sin_ ser traspuesta.
 
 denotada con $Adj(A)$, podemos definirla como:
-$$\large Adj(A)=\begin{bmatrix}
-A_{11}&A_{12}&\dots &A_{1n} \\
-A_{21}&A_{22}&\dots &A_{2n} \\
-\vdots&\vdots&\dots&\vdots \\
-A_{n1}&A_{n2}&\dots &A_{nn}
-\end{bmatrix}_{n\times n}^T$$
+$$  
+Adj(A)=  
+\begin{bmatrix}  
+A_{11} & A_{12} & \dots & A_{1n} \  
+A_{21} & A_{22} & \dots & A_{2n} \  
+\vdots & \vdots & \dots & \vdots \  
+A_{n1} & A_{n2} & \dots & A_{nn}  
+\end{bmatrix}_{n\times n}^{T}  
+$$
 - $A_{ij}$ representa el cofactor de $a_{ij}$ en $A$. no confundir con la [[matriz adjunta de un elemento]].
 - alternativamente, se puede denotar $cof(A)^{T}$.
 

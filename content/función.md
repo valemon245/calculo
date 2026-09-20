@@ -9,13 +9,13 @@ Created: 2024-03-30
 hay muchas formas de definir una función. la más corta podría ser que una función *relaciona a una entrada con una salida*.
 
 llamemos a la función $f$. entonces, tenemos lo siguiente:
-$$\Huge f(\textcolor{red}{\underset{\text{entrada}}{x}})=\textcolor{blue}{\underset{\text{lo que debe ser la salida}}{x^{2}}}$$
+$$f(\textcolor{red}{\underset{\text{entrada}}{x}})=\textcolor{blue}{\underset{\text{lo que debe ser la salida}}{x^{2}}}$$
 
 la función $f$ toma la **entrada** $x$ y aplica una **relación** sobre ella (elevar al cuadrado). el resultado será nuestra **salida**.
 - por ejemplo, $f(\textcolor{red}{5})=\textcolor{blue}{25}$.
 
 a veces, la función no tiene nombre. en ese caso, podemos ver algo como:
-$$\Huge \textcolor{blue}{\underset{\text{salida}}{y}}=\textcolor{red}{\underset{\text{entrada+relacion}}{x^{2}}}$$
+$$\textcolor{blue}{\underset{\text{salida}}{y}}=\textcolor{red}{\underset{\text{entrada+relacion}}{x^{2}}}$$
 
 la idea es similar. la **salida** $y$ es igual a la **entrada** $x$ al cuadrado (la **relación**).
 

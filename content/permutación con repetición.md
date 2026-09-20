@@ -13,7 +13,7 @@ concepto dentro del [[análisis combinatorio]].
 tenemos un conjunto de $m$ elementos tal que $m=n$, pero dentro de nuestro conjunto, existen elementos que son indistinguibles entre sí. cómo podemos saber cuántas combinaciones posibles se pueden hacer?
 
 para eso usamos la permutación con repetición. podemos decir que:
-$$\large P_{\alpha,\beta,\dots,\gamma}^{m}=\frac{m!}{\alpha!\:\beta!\dots \gamma!}$$
+$$P_{\alpha,\beta,\dots,\gamma}^{m}=\frac{m!}{\alpha!\:\beta!\dots \gamma!}$$
 
 ## ejemplo 
 digamos que tenemos las letras $BANANA$. cuántas combinaciones podemos hacer con estas letras?

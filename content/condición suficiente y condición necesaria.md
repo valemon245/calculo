@@ -1,7 +1,6 @@
 ---
 Created: 2024-03-10
 ---
-# condiciones suficientes y/o necesarias
 
 >[!abstract] definición
 >una condición es suficiente cuando su presencia (veracidad) garantiza que un evento o afirmación también pase, pero su ausencia no impide que dicho evento ocurra.

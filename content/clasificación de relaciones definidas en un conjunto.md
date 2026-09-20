@@ -5,7 +5,6 @@ aliases:
   - relación de orden amplio
   - relación de orden estricto
 ---
-# clasificación de relaciones definidas en un conjunto
 
 >[!abstract] definición
 >teniendo $R\subset A^{2}$, las posibles clasificaciones basadas en las [[propiedades de relaciones definidas en un conjunto]].

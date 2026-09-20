@@ -13,14 +13,14 @@ aliases:
 
 utilizamos los conectivos lógicos para operar con proposiciones, cada símbolo representa una operación diferente:
 
-| símbolo               | operación                    | significado en lenguaje natural          | tabla de verdad                                                                                                                                                                                                            |
-| --------------------- | ---------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| $\sim$ <br>$\neg$     | [[negación lógica]]          | no $p$ <br>$p$ no es cierto              | $\begin{array}{\|c\|c\|}\hline p&\sim p\\\hline\text{V}&\text{F}\\\text{F}&\text{V}\\\hline\end{array}$                                                                                                                    |
-| $\wedge$              | [[conjunción lógica]]        | $p$ y $q$                                | $\begin{array}{\|c\|c\|c\|}\hline p&q&p\wedge q\\\hline\text{V}&\text{V}&\text{V}\\\text{V}&\text{F}&\text{F}\\\text{F}&\text{V}&\text{F}\\\text{F}&\text{F}&\text{F}\\\hline\end{array}$                                  |
-| $\vee$                | [[disyunción inclusiva]]     | $p$ o $q$                                | $\begin{array}{\|c\|c\|c\|}\hline p&q&p\lor q\\\hline\text{V}&\text{V}&\text{V}\\\text{V}&\text{F}&\text{V}\\\text{F}&\text{V}&\text{V}\\\text{F}&\text{F}&\text{F}\\\hline\end{array}$                                    |
-| $\veebar$<br>$\Delta$ | [[disyunción exclusiva]]<br> | $p$ o $q$ pero no ambos                  | $\begin{array}{\|c\|c\|c\|}\hline p&q&p\veebar q\\\hline\text{V}&\text{V}&\text{F}\\\text{V}&\text{F}&\text{V}\\\text{F}&\text{V}&\text{V}\\\text{F}&\text{F}&\text{F}\\\hline\end{array}$                                 |
-| $\Rightarrow$         | [[implicación lógica]]       | $p$ implica $q$ <br>si $p$, entonces $q$ | $\begin{array}{\|c\|c\|c\|}\hline p&q&p\Rightarrow q\\\hline\text{V}&\text{V}&\text{V}\\\text{V}&\text{F}&\text{F}\\\text{F}&\text{V}&\text{V}\\\text{F}&\text{F}&\text{V}\\\hline\end{array}$                             |
-| $\Leftrightarrow$     | [[doble implicación]]        | $p$ si y sólo si $q$                     | $\begin{array}{\|c\|c\|c\|}\hline p&q&p\Leftrightarrow q\\\hline\mathrm{V}&\mathrm{V}&\mathrm{V}\\\mathrm{V}&\mathrm{F}&\mathrm{F}\\\mathrm{F}&\mathrm{V}&\mathrm{F}\\\mathrm{F}&\mathrm{F}&\mathrm{V}\\\hline\end{array}$ |
+|símbolo|operación|significado en lenguaje natural|tabla de verdad|
+|---|---|---|---|
+|$\sim$ $\neg$|[[negación lógica]]|no $p$ $p$ no es cierto|$\begin{matrix} p & \sim p \ \hline \mathrm{V} & \mathrm{F} \ \mathrm{F} & \mathrm{V} \end{matrix}$|
+|$\wedge$|[[conjunción lógica]]|$p$ y $q$|$\begin{matrix} p & q & p\wedge q \ \hline \mathrm{V} & \mathrm{V} & \mathrm{V} \ \mathrm{V} & \mathrm{F} & \mathrm{F} \ \mathrm{F} & \mathrm{V} & \mathrm{F} \ \mathrm{F} & \mathrm{F} & \mathrm{F} \end{matrix}$|
+|$\vee$|[[disyunción inclusiva]]|$p$ o $q$|$\begin{matrix} p & q & p\lor q \ \hline \mathrm{V} & \mathrm{V} & \mathrm{V} \ \mathrm{V} & \mathrm{F} & \mathrm{V} \ \mathrm{F} & \mathrm{V} & \mathrm{V} \ \mathrm{F} & \mathrm{F} & \mathrm{F} \end{matrix}$|
+|$\veebar$ $\Delta$|[[disyunción exclusiva]]|$p$ o $q$ pero no ambos|$\begin{matrix} p & q & p\veebar q \ \hline \mathrm{V} & \mathrm{V} & \mathrm{F} \ \mathrm{V} & \mathrm{F} & \mathrm{V} \ \mathrm{F} & \mathrm{V} & \mathrm{V} \ \mathrm{F} & \mathrm{F} & \mathrm{F} \end{matrix}$|
+|$\Rightarrow$|[[implicación lógica]]|$p$ implica $q$ si $p$, entonces $q$|$\begin{matrix} p & q & p\Rightarrow q \ \hline \mathrm{V} & \mathrm{V} & \mathrm{V} \ \mathrm{V} & \mathrm{F} & \mathrm{F} \ \mathrm{F} & \mathrm{V} & \mathrm{V} \ \mathrm{F} & \mathrm{F} & \mathrm{V} \end{matrix}$|
+|$\Leftrightarrow$|[[doble implicación]]|$p$ si y sólo si $q$|$\begin{matrix} p & q & p\Leftrightarrow q \ \hline \mathrm{V} & \mathrm{V} & \mathrm{V} \ \mathrm{V} & \mathrm{F} & \mathrm{F} \ \mathrm{F} & \mathrm{V} & \mathrm{F} \ \mathrm{F} & \mathrm{F} & \mathrm{V} \end{matrix}$|
 
 para representar todos los posibles valores de verdad de la proposición compuesta que resulte de operar entre proposiciones más simples, utilizamos [[tablas de verdad]].
 

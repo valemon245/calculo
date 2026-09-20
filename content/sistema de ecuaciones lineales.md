@@ -7,7 +7,7 @@ Created: 2024-06-24
 >conjunto de [[ecuación lineal|ecuaciones lineales]] con más de una incógnita, con sus coeficientes definidos en un cuerpo.
 
 definimos un sistema de $m$ ecuaciones lineales con $n$ incógnitas como:
-$$\large \begin{cases}a_{11}x_1+a_{12}x_2+\dots+a_{1n}x_n=b_1\\a_{21}x_1+a_{22}x_2+\dots+a_{2n}x_n=b_2\\\dots\dots\dots\dots\\a_{m1}x_1+a_{m2}x_2+\dots+a_{mn}x_n=b_m\end{cases}$$
+$$ \begin{cases}a_{11}x_1+a_{12}x_2+\dots+a_{1n}x_n=b_1\\a_{21}x_1+a_{22}x_2+\dots+a_{2n}x_n=b_2\\\dots\dots\dots\dots\\a_{m1}x_1+a_{m2}x_2+\dots+a_{mn}x_n=b_m\end{cases}$$
 - $m$ es el número de ecuaciones,
 - $n$ es el número de incógnitas,
 - $a_{ij}\in\mathbb{R}$ es el coeficiente de la incógnita $x_j$ en la $i$-ésima ecuación,
@@ -18,7 +18,7 @@ $$\large \begin{cases}a_{11}x_1+a_{12}x_2+\dots+a_{1n}x_n=b_1\\a_{21}x_1+a_{22}x
 - $b_i$ son los términos independientes.
 
 abreviando con la [[notación sumatoria|sumatoria]], podemos decir que:
-$$\large\sum_{j=1}^na_{ij}\cdot x_j=b_i\quad;\quad i=1,2,\dots m$$
+$$\sum_{j=1}^na_{ij}\cdot x_j=b_i\quad;\quad i=1,2,\dots m$$
 
 los sistemas de ecuaciones lineales conforman un problema matemático, siendo este el hallar los valores de las incógnitas que verifican simultáneamente todas las ecuaciones del sistema. 
 

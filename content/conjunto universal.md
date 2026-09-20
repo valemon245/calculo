@@ -3,7 +3,6 @@ Created: 2024-03-29
 aliases:
   - conjunto referencial
 ---
-# conjunto universal
 
 >[!abstract] definición
 >el [[conjunto]] de todos los elementos que se están utilizando en un contexto dado.

@@ -3,7 +3,6 @@ Created: 2023-09-09
 aliases:
   - conjunto numérico
 ---
-# conjuntos numéricos
 
 >[!abstract] definición
 >[[conjunto|conjuntos]] especiales para agrupaciones comúnes de números.

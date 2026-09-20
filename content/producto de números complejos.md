@@ -7,7 +7,7 @@ Created: 2024-06-21
 >reglas y propiedades para la operación de producto en los [[números complejos]].
 
 tenemos $z=(a,b)$ y $w=(c,d)$. el producto de dos números complejos se define como:
-$$\large z\cdot w=(a,b)\cdot(c,d)=(ac-bd,ad+bc)$$
+$$z\cdot w=(a,b)\cdot(c,d)=(ac-bd,ad+bc)$$
 
 ## propiedades
 se verifican los siguientes axiomas:

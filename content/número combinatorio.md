@@ -10,7 +10,7 @@ aliases:
 >teniendo dos enteros no negativos $m$ y $n$ donde $n\leqslant m$, notación que representa el número de formas en que se pueden conseguir grupos de $n$ componentes a partir de un [[conjunto]] de $m$ elementos, sin importar su orden.
 
 concepto dentro del [[análisis combinatorio]], también se le llama **coeficiente binomial**. es una notación diferente a la [[combinación simple]] $C_n^m$, pero se refieren a lo mismo. 
-$${\textcolor{red}{\underset{\text{\large numerador}}{m}}\choose \textcolor{blue}{\underset{\text{\large denominador/orden}}{n}}}=\frac{m!}{n!(m-n)!}$$
+$${\textcolor{red}{\underset{\text{ numerador}}{m}}\choose \textcolor{blue}{\underset{\text{ denominador/orden}}{n}}}=\frac{m!}{n!(m-n)!}$$
 
 ## propiedades
 todo número combinatorio de denominador 0 es igual a 1:

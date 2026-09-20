@@ -1,7 +1,6 @@
 ---
 Created: 2024-04-02
 ---
-# clasificación de funciones
 
 >[!abstract] definición
 >diferentes clasificaciones posibles para las [[función|funciones]].

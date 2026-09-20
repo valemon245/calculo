@@ -12,7 +12,7 @@ aliases:
 simbólicamente, se representa con una letra pi mayúscula: $\prod$.
 
 la notación productoria tiene la siguiente estructura:
-$$\Large\prod_{\textcolor{yellow}{i=\textcolor{orange}{1}}}^{\textcolor{red}{n}}\textcolor{blue}{a_{\textcolor{yellow}{i}}}=\textcolor{blue}{a_{\textcolor{orange}{1}}\cdot a_{\textcolor{yellow}{2}}\cdot a_{\textcolor{yellow}{3}}\cdot \dots \cdot a_{\textcolor{red}{n}}}$$
+$$\prod_{\textcolor{yellow}{i=\textcolor{orange}{1}}}^{\textcolor{red}{n}}\textcolor{blue}{a_{\textcolor{yellow}{i}}}=\textcolor{blue}{a_{\textcolor{orange}{1}}\cdot a_{\textcolor{yellow}{2}}\cdot a_{\textcolor{yellow}{3}}\cdot \dots \cdot a_{\textcolor{red}{n}}}$$
 - lo que se halla al lado del sigma es *lo que se multiplica*. en este caso, $\textcolor{blue}{a_{\textcolor{yellow}{i}}}$.
 	- usamos $\textcolor{blue}{a_{\textcolor{yellow}{i}}}$ para aclarar que el producto se realiza una vez por cada valor posible de $\textcolor{yellow}{i}$, incluso si $\textcolor{yellow}{i}$ no está presente en el término que se está multiplicando. 
 		- a $\textcolor{yellow}{i}$ se le llama **índice**.

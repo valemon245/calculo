@@ -3,7 +3,6 @@ Created: 2024-03-29
 aliases:
   - vacío
 ---
-# conjunto vacío
 
 >[!abstract] definición
 >un [[conjunto]] sin elementos.

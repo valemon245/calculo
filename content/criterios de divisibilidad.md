@@ -1,7 +1,6 @@
 ---
 Created: 2024-06-10
 ---
-# criterios de divisibilidad
 
 >[!abstract] definición
 >formas rápidas de saber si un [[números enteros|número entero]] es [[divisibilidad de los enteros|divisible]] por otro.
