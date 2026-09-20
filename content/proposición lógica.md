@@ -4,7 +4,6 @@ aliases:
   - "proposición"
 ---
 # proposición
-#lógica 
 
 >[!abstract] definición
 >una frase declarativa que tiene un valor de verdad fijo, conocible y definitivo, sea verdadero ($V$) o falso ($F$).

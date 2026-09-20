@@ -2,12 +2,12 @@
 Created: 2024-06-20
 ---
 # algoritmo de euclides
-#números 
 
 >[!abstract] definición
 >algoritmo para hallar el [[máximo común divisor]] de dos [[números enteros]].
 
 teniendo $a,b\in\mathbb{Z}$ siendo $b\neq 0$, podemos hallar $mcd(a,b)$ de la siguiente forma:
+
 $$\large\begin{aligned}
 &a=b\cdot q + r, \; 0< r\leq |b| \\
 &b=r\cdot q_{2} + r_{2}, \; 0< r_{2}\leq |r| \\

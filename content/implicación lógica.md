@@ -5,7 +5,6 @@ aliases:
   - implicación
 ---
 # implicación lógica o condicional
-#lógica 
 
 >[!abstract] definición
 >un [[conectivos lógicos|conector lógico]] que equivale a decir “$p$ implica $q$” o “si $p$ entonces $q$”.

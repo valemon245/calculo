@@ -2,7 +2,6 @@
 Created: 2024-06-12
 ---
 # término k-ésimo
-#números 
 
 >[!abstract] definición
 >fórmula para hallar el término $k$-ésimo dentro del [[binomio de newton]].

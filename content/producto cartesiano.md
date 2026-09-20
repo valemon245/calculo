@@ -2,7 +2,6 @@
 Created: 2024-03-29
 ---
 # producto cartesiano
-#lógica #conjuntos 
 
 >[!abstract] definición
 >el [[conjunto]] de todos los [[par ordenado|pares ordenados]] de $A$ y $B$, donde el primer elemento de cada par pertenece al conjunto $A$ y el segundo elemento pertenece al conjunto $B$.

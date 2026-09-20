@@ -5,7 +5,6 @@ aliases:
   - productorio
 ---
 # notación productoria
-#matematica 
 
 >[!abstract] definición
 >notación matemática que representa el producto de una sucesión de números.

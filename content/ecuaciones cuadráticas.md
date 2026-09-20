@@ -4,7 +4,6 @@ aliases:
   - Ecuaciones de segundo grado
 ---
 # ecuaciones de segundo grado
-#matematica #Σ
 
 las ecuaciones de segundo grado son aquellas donde haya una potencia al cuadrado de la incógnita. Se escriben como: 
 $$ax^2 + bx + c = 0$$

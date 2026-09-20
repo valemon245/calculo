@@ -5,7 +5,6 @@ aliases:
   - inversa
 ---
 # inversa de una matriz
-#matrices 
 
 >[!abstract] definición
 >teniendo una [[matriz cuadrada]] $A$, otra [[matriz]] de la misma clase tal que, multiplicada por $A$, de como resultado la [[matriz identidad]] de esa clase.

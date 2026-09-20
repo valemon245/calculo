@@ -7,7 +7,6 @@ aliases:
   - número complejo
 ---
 # números complejos
-#números 
 
 >[!abstract] definición
 >[[conjuntos numéricos|conjunto numérico]] que incluye todos los números que se pueden representar como la suma de un [[números reales|número real]] y un número imaginario.

@@ -7,7 +7,6 @@ aliases:
   - "operaciones lógicas"
 ---
 # conectivos lógicos u operaciones lógicas
-#lógica 
 
 >[!abstract] definición
 >símbolos que conectan dos [[proposición lógica|proposiciones]] en una sola más compleja, cuyo valor de verdad dependerá de los valores de las proposiciones que la forman.

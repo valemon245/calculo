@@ -2,7 +2,6 @@
 Created: 2024-06-21
 ---
 # módulo de un número complejo
-#números 
 
 >[!abstract] definición
 >en el plano complejo, la distancia o longitud del vector de un [[números complejos|número complejo]] desde el punto de origen.

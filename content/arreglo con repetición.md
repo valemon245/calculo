@@ -2,7 +2,6 @@
 Created: 2024-05-20
 ---
 # arreglo con repetición
-#matematica 
 
 >[!abstract] definición
 >todos los grupos diferentes que se pueden formar tal que:

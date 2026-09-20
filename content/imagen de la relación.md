@@ -5,7 +5,6 @@ aliases:
   - rango
 ---
 # imagen o rango
-#lógica 
 
 >[!abstract] definición
 >[[conjunto]] de los segundos componentes en los [[par ordenado|pares ordenados]] de una [[relación binaria|relación]].

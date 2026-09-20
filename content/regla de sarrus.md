@@ -2,7 +2,6 @@
 Created: 2024-06-24
 ---
 # regla de sarrus
-#matrices 
 
 >[!abstract] definición
 >fórmula para hallar el [[determinante de una matriz]] de orden 3.

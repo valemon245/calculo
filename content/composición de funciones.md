@@ -2,7 +2,6 @@
 Created: 2024-04-02
 ---
 # composición de funciones
-#lógica #funciones 
 
 >[!abstract] definición
 >teniendo tres [[conjunto|conjuntos]] $A,B,C$ y dos [[función|funciones]] $f: A\to B$ y $g: B\to C$, $g\circ f$ es una función de $A\to C$.

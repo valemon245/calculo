@@ -2,7 +2,6 @@
 Created: 2024-04-23
 ---
 # funciones: ejemplos y ejercicios
-#funciones #ejemplo
 
 >[!emoji] 📌
 >[[función]]

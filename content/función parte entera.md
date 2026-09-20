@@ -6,7 +6,6 @@ aliases:
   - función suelo
 ---
 # función parte entera
-#funciones 
 
 >[!abstract] definición
 >[[función]] que toma un [[números reales|número real]] como entrada y devuelve uno de los [[números enteros]] entre los que está comprendido como salida.

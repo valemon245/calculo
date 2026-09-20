@@ -2,7 +2,6 @@
 Created: 2024-06-25
 ---
 # teorema de rouché-frobenius
-#ecuaciones 
 
 >[!abstract] definición
 >teorema que asegura que un [[sistema de ecuaciones lineales]] es compatible si y sólo sí su [[expresión matricial de un sistema de ecuaciones|matriz de coeficientes]] y matriz ampliada tienen igual rango.

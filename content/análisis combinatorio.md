@@ -2,10 +2,6 @@
 Created: 2024-05-20
 ---
 # análisis combinatorio
-#matematica 
-
->[!emoji] ⭐
->tema de [[uni_algebra]]
 
 >[!abstract] definición
 >rama de las matemáticas que estudia la forma de contar, ordenar y seleccionar elementos dentro de un [[conjunto]], considerando las diferentes combinaciones y permutaciones posibles.

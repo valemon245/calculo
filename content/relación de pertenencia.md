@@ -2,7 +2,6 @@
 Created: 2024-03-29
 ---
 # relación de pertenencia
-#lógica #conjuntos 
 
 >[!abstract] definición
 >propiedad que dice que un elemento pertenece a un [[conjunto]] cuando este es parte del mismo, representado con $\in$.

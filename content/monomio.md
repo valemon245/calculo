@@ -2,7 +2,6 @@
 Created: 2024-06-21
 ---
 # monomio
-#polinomios 
 
 >[!abstract] definición
 >expresión algebráica de un solo término.

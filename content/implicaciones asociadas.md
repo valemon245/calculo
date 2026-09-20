@@ -2,7 +2,6 @@
 Created: 2024-03-30
 ---
 # implicaciones asociadas
-#lógica 
 
 >[!abstract] definición
 >posibles [[implicación lógica|implicaciones]] que se obtienen de una implicación original.

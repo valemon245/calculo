@@ -2,7 +2,6 @@
 Created: 2024-06-23
 ---
 # matriz
-#matrices
 
 >[!abstract] definición
 >arreglo bidimensional de elementos dispuestos de forma rectangular.

@@ -2,7 +2,6 @@
 Created: 2024-03-29
 ---
 # conjuntos disyuntos
-#lógica #conjuntos 
 
 >[!abstract] definición
 >dos [[conjunto|conjuntos]] cuya [[intersección de conjuntos|intersección]] es un [[conjunto vacío]].

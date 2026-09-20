@@ -4,7 +4,6 @@ aliases:
   - determinante
 ---
 # determinante de una matriz
-#matrices 
 
 >[!abstract] definición
 >[[función]] que asigna un número o escalar a una [[matriz cuadrada]] a partir de sus elementos.

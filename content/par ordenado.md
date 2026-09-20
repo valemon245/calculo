@@ -4,7 +4,6 @@ aliases:
   - pares ordenados
 ---
 # par ordenado
-#lógica 
 
 >[!abstract] definición
 >una pareja de elementos definida en cierto orden. 

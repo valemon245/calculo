@@ -2,7 +2,6 @@
 Created: 2024-06-24
 ---
 # sistema de ecuaciones lineales
-#ecuaciones
 
 >[!abstract] definición
 >conjunto de [[ecuación lineal|ecuaciones lineales]] con más de una incógnita, con sus coeficientes definidos en un cuerpo.

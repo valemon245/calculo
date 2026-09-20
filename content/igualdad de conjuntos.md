@@ -2,7 +2,6 @@
 Created: 2024-03-29
 ---
 # igualdad de conjuntos
-#lógica #conjuntos 
 
 >[!abstract] definición
 >propiedad que dice que si un [[conjunto]] $A$ está [[relación de inclusión|incluído]] en un conjunto $B$ y $B$ está incluído en $A$, entonces $A$ y $B$ son iguales.

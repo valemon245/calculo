@@ -2,7 +2,6 @@
 Created: 2024-06-21
 ---
 # relaciones entre raíces y coeficientes
-#polinomios 
 
 >[!abstract] definición
 >algunas propiedades entre las [[raíz de un polinomio|raíces]] y los coeficientes de un [[polinomio]].

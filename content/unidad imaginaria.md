@@ -2,7 +2,6 @@
 Created: 2024-06-21
 ---
 # unidad imaginaria
-#números 
 
 >[!abstract] definición
 >concepto matemático para resolver ecuaciones que no tienen solución en el conjunto de los [[números reales]].

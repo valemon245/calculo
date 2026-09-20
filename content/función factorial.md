@@ -2,7 +2,6 @@
 Created: 2024-04-02
 ---
 # función factorial
-#funciones 
 
 >[!abstract] definición
 >[[función]] que toma un entero no negativo $n$ y devuelve el producto de todos los primeros naturales hasta $n$.

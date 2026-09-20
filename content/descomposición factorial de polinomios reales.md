@@ -2,7 +2,6 @@
 Created: 2024-06-21
 ---
 # descomposición factorial 
-#polinomios 
 
 >[!abstract] definición
 >teorema que asegura que un [[polinomio]] de grado mayor o igual a 1 se puede expresar como un producto de polinomios del menor grado posible.

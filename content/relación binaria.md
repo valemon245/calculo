@@ -4,10 +4,6 @@ aliases:
   - relación
 ---
 # relación
-#lógica #conjuntos 
-
->[!emoji] ⭐ 
->tema de [[uni_algebra]]
 
 >[!abstract] definición
 >un [[conjunto]] de [[par ordenado|pares ordenados]] cuyos elementos, pertenecientes a otros dos conjuntos, están vinculados por una propiedad.

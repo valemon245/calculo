@@ -2,7 +2,6 @@
 Created: 2024-06-21
 ---
 # teorema fundamental del álgebra
-#polinomios 
 
 >[!abstract] definición
 >teorema que asegura que todo [[polinomio]] no constante, con coeficientes [[números reales|reales]] o [[números complejos|complejos]] y de grado $n>0$, tiene $n$ [[raíz de un polinomio|raíces]] no necesariamente distintas en $\mathbb{C}$.

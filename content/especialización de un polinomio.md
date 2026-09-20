@@ -2,7 +2,6 @@
 Created: 2024-06-21
 ---
 # especialización de un polinomio
-#polinomios 
 
 >[!abstract] definición
 >acción de darle un valor a la o las variables de un [[polinomio]].

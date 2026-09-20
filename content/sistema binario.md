@@ -2,7 +2,6 @@
 Created: 2024-05-08
 ---
 # sistema binario
-#informatica 
 
 >[!abstract] definición
 >sistema de numeración que representa información usando 2 cifras.

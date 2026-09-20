@@ -2,7 +2,6 @@
 Created: 2024-03-30
 ---
 # propiedades de relaciones definidas en un conjunto
-#lógica 
 
 >[!abstract] definición
 >propiedades de reflexividad, simetricidad y transitividad de una [[relación binaria|relación]] en $A^{2}$.

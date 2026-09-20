@@ -2,7 +2,6 @@
 Created: 2024-06-24
 ---
 # regla de cramer
-#ecuaciones 
 
 >[!abstract] definición
 >teorema que dice que la solución para cada incógnita $x_j$ de un [[sistema crameriano]] se pueden hallar como un cociente tal que:

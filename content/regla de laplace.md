@@ -2,7 +2,6 @@
 Created: 2024-06-24
 ---
 # regla de laplace
-#matrices 
 
 >[!abstract] definición
 >fórmula para calcular el [[determinante de una matriz]] de orden igual o mayor a 3.

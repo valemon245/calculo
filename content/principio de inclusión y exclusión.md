@@ -2,7 +2,6 @@
 Created: 2024-03-29
 ---
 # principio de inclusión y exclusión
-#lógica #conjuntos 
 
 >[!abstract] definición
 >principio que permite calcular el [[cardinal de un conjunto|cardinal]] de la [[unión de conjuntos|unión]] o [[intersección de conjuntos|intersección]] de dos o más conjuntos usando otros cardinales.

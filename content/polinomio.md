@@ -4,7 +4,6 @@ aliases:
   - polinomios
 ---
 # polinomio
-#polinomios
 
 >[!abstract] definición
 >una expresión algebráica construida a partir de la suma/producto de términos o [[monomio|monomios]].

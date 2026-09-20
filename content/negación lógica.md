@@ -4,7 +4,6 @@ aliases:
  - "negación"
 ---
 # negación lógica
-#lógica 
 
 >[!abstract] definición
 >un [[conectivos lógicos|conector lógico]], equivalente a decir “no $p$” o “no es cierto que $p$”.

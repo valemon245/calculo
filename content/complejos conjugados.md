@@ -2,7 +2,6 @@
 Created: 2024-06-21
 ---
 # complejos conjugados
-#números 
 
 >[!abstract] definición
 >dos [[números complejos]] con la misma parte real y partes imaginarias opuestas.

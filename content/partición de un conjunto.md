@@ -2,7 +2,6 @@
 Created: 2024-03-29
 ---
 # partición de un conjunto
-#lógica #conjuntos 
 
 >[!abstract] definición
 >una colección de subconjuntos no vacíos de un [[conjunto]] $A$ que unidos forman al conjunto $A$ original, sin superposiciones y sin elementos adicionales.

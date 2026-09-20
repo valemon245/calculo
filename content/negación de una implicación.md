@@ -2,7 +2,6 @@
 Created: 2024-03-30
 ---
 # negación de una implicación
-#lógica 
 
 >[!abstract] definición
 >una posible forma de [[negación lógica|negar]] una [[implicación lógica]].

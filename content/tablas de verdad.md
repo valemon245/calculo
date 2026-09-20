@@ -2,7 +2,6 @@
 Created: 2024-03-10
 ---
 # tablas de verdad
-#lógica 
 
 >[!abstract] definición
 >tabla donde se listan todos los valores de verdad posibles para una [[proposición lógica|proposición]] compuesta, basado en los valores de sus proposiciones atómicas.

@@ -2,7 +2,6 @@
 Created: 2024-06-21
 ---
 # suma de complejos
-#números 
 
 >[!abstract] definición
 >reglas y propiedades para la operación de suma en los [[números complejos]].

@@ -4,7 +4,6 @@ aliases:
   - conjunto potencia
 ---
 # conjunto de partes
-#lógica 
 
 >[!abstract] definición
 >el [[conjunto]] de todos los subconjuntos de un conjunto.

@@ -7,7 +7,6 @@ aliases:
   - racional
 ---
 # números racionales 
-#matematica 
 
 >[!abstract] definición
 >[[conjuntos numéricos|conjunto numérico]] formado por todos los números que se pueden expresar como la fracción o cociente entre dos [[números enteros|enteros]].

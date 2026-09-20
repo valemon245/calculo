@@ -2,10 +2,6 @@
 Created: 2024-03-30
 ---
 # función
-#lógica #funciones
-
->[!emoji] ⭐ 
->tema de [[uni_algebra]]
 
 >[!abstract] definición
 >una [[relación binaria|relación]] que asocia los elementos de un [[conjunto]] (entrada) a los elementos de otro conjunto (salida), de tal forma que a cada entrada se le asigna exactamente una sola salida.

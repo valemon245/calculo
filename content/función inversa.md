@@ -2,7 +2,6 @@
 Created: 2024-04-02
 ---
 # función inversa
-#lógica #funciones 
 
 >[!abstract] definición
 >teniendo una [[función]] $f:A\to B$, una función inversa mapea elementos de $B\to A$.

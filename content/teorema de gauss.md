@@ -1,4 +1,3 @@
-#polinomios 
 
 >[!abstract] definición
 >teorema que asegura que, si un [[polinomio]] real $P$ con coeficientes enteros tiene [[raíz de un polinomio|raíces]] [[números racionales|racionales]] (se pueden escribir como $\frac{p}{q}$), se verifica que:

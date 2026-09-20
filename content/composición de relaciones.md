@@ -2,7 +2,6 @@
 Created: 2024-03-30
 ---
 # composición de relaciones
-#lógica 
 
 >[!abstract] definición
 >teniendo tres [[conjunto|conjuntos]] $A,B,C$ y dos [[relación binaria|relaciones]] $R\subset A\times B$ y $S\subset B\times C$, $S\circ R$ es un subconjunto de $A\times C$.

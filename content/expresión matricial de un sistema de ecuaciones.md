@@ -4,7 +4,6 @@ aliases:
   - matriz de coeficientes
 ---
 # expresión matricial
-#ecuaciones 
 
 >[!abstract] definición
 >[[matriz|matrices]] que se pueden formar a partir de la representación general de un [[sistema de ecuaciones lineales]].

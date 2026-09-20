@@ -5,7 +5,6 @@ aliases:
   - raíces
 ---
 # raíz de un polinomio
-#polinomios 
 
 >[!abstract] definición
 >número $\alpha$ tal que la [[especialización de un polinomio|especialización]] de un [[polinomio]] $P(\alpha)$ es igual a 0.

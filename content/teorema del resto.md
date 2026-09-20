@@ -2,7 +2,6 @@
 Created: 2024-06-21
 ---
 # teorema del resto
-#polinomios 
 
 >[!abstract] definición
 >teorema que dice que el resto de dividir un [[polinomio]] por otro de forma $(x-b_{0})$ es igual a la [[especialización de un polinomio|especialización]] del dividendo por $b_{0}$.

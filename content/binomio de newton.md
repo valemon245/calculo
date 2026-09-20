@@ -2,7 +2,6 @@
 Created: 2024-05-20
 ---
 # potencias del binomio
-#matematica 
 
 >[!abstract] definición
 >fórmula para calcular las potencias de un binomio, siendo el exponente un entero positivo.

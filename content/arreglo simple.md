@@ -5,7 +5,6 @@ aliases:
   - disposición simple
 ---
 # arreglo, variación o disposición simple
-#matematica 
 
 >[!abstract] definición
 >siendo $n\leqslant m$, todos los grupos distintos que se pueden formar tal que:

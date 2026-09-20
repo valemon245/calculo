@@ -2,7 +2,6 @@
 Created: 2024-06-10
 ---
 # números primos
-#números 
 
 >[!abstract] definición
 >un [[números enteros|número entero]] $p$ que tiene exactamente 4 divisores: $1,-1,p,-p$.

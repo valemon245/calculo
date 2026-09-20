@@ -2,7 +2,6 @@
 Created: 2024-05-20
 ---
 # diagrama de árbol
-#matematica 
 
 >[!abstract] definición
 >diagrama para descubrir las posibles combinaciones de $m$ elementos.

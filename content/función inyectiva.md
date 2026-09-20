@@ -2,7 +2,6 @@
 Created: 2024-04-02
 ---
 # función inyectiva
-#lógica #funciones 
 
 >[!abstract] definición
 >una [[función]] donde a cada elemento del [[dominio de la relación|dominio]] le corresponde [[imagen de la relación|imágenes]] diferentes.

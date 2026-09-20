@@ -2,7 +2,6 @@
 Created: 2024-06-21
 ---
 # producto de polinomios
-#polinomios 
 
 >[!abstract] definición
 >producto de dos [[polinomio|polinomios]].

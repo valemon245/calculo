@@ -2,7 +2,6 @@
 Created: 2024-05-20
 ---
 # combinación con repetición
-#matematica 
 
 >[!abstract] definición
 >todos los grupos distintos que se pueden formar tal que:

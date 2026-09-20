@@ -7,7 +7,6 @@ aliases:
   - entero
 ---
 # números enteros
-#matematica 
 
 >[!abstract] definición
 >[[conjuntos numéricos|conjunto numérico]] formado por la unión de los [[números naturales]], sus opuestos y el cero.

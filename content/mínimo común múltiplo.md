@@ -2,7 +2,6 @@
 Created: 2024-06-20
 ---
 # mínimo común múltiplo
-#números 
 
 >[!abstract] definición
 >el menor número natural que es múltiplo de dos o más [[números enteros]].

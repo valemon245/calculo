@@ -4,7 +4,6 @@ aliases:
   - bicondicional
 ---
 # doble implicación o bicondicional
-#lógica 
 
 >[!abstract] definición
 >un [[conectivos lógicos|conector lógico]] que equivale a decir “$p$ si y sólo si $q$”.

@@ -6,7 +6,6 @@ aliases:
   - PIC
 ---
 # principio de inducción
-#números #matematica 
 
 >[!abstract] definición
 >razonamiento que demuestra que una [[proposición lógica|proposición]], dependiente de una variable $n$ que toma infinidad de valores [[números naturales|naturales]], siempre es verdadera.

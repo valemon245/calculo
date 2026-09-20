@@ -2,7 +2,6 @@
 Created: 2024-04-02
 ---
 # función biyectiva
-#lógica #funciones 
 
 >[!abstract] definición
 >una [[función]] que es [[función inyectiva|inyectiva]] y [[función suryectiva|suryectiva]].

@@ -4,7 +4,6 @@ aliases:
   - conjunto numérico
 ---
 # conjuntos numéricos
-#matematica #conjuntos 
 
 >[!abstract] definición
 >[[conjunto|conjuntos]] especiales para agrupaciones comúnes de números.

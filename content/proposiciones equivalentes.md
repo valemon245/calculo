@@ -5,7 +5,6 @@ aliases:
  - "leyes lógicas"
 ---
 # propiedades de las proposiciones
-#lógica 
 
 >[!abstract] definición
 >dos [[proposición lógica|proposiciones]] cuyas [[tablas de verdad]] son iguales.

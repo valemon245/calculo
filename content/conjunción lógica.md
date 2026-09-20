@@ -2,7 +2,6 @@
 Created: 2024-03-10
 ---
 # conjunción lógica
-#lógica 
 
 >[!abstract] definición
 >un [[conectivos lógicos|conector lógico]] que equivale a decir “$p$ y $q$”.

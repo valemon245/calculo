@@ -4,10 +4,6 @@ aliases:
   - teoría de conjuntos
 ---
 # teoría intuitiva de conjuntos
-#lógica #matematica #🗺️ 
-
->[!emoji] ⭐ 
->tema de [[uni_algebra]]
 
 >[!abstract] definición
 >una rama de la lógica matemática que estudia los [[conjunto|conjuntos]], sus características y las posibles [[operaciones entre conjuntos|operaciones]] entre ellos.

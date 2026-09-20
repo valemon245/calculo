@@ -2,7 +2,6 @@
 Created: 2024-06-24
 ---
 # ecuación lineal o de primer grado
-#ecuaciones 
 
 >[!abstract] definición
 >ecuación algebráica formada por sumas y restas de una o más variables sin potencias (o elevadas a 1).

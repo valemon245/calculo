@@ -3,7 +3,6 @@ Created: 2023-09-09
 aliases: 
 ---
 # propiedad asociativa
-#matematica 
 
 La propiedad asociativa implica que no importa cómo **agrupemos** los números, vamos a obtener el mismo resultado. Aplica para la suma y la múltiplicación.
 

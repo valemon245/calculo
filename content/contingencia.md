@@ -2,7 +2,6 @@
 Created: 2024-04-04
 ---
 # contingencia
-#lógica 
 
 >[!abstract] definición
 >una [[proposición lógica|proposición]] que puede ser verdadera o falsa.

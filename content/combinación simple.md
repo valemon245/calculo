@@ -2,7 +2,6 @@
 Created: 2024-05-20
 ---
 # combinación simple
-#matematica 
 
 >[!abstract] definición
 >siendo $n\leqslant m$, todos los grupos distintos que se pueden formar tal que:

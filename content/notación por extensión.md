@@ -2,7 +2,6 @@
 Created: 2024-03-29
 ---
 # notación por extensión
-#lógica #conjuntos
 
 >[!abstract] definición
 >una forma de describir un [[conjunto]], escribiendo cada elemento en una lista entre llaves $\{\}$.

@@ -2,7 +2,6 @@
 Created: 2024-04-02
 ---
 # función característica
-#funciones 
 
 >[!abstract] definición
 >[[función]] que asigna el valor $1$ a un elemento si cumple cierta condición y el valor $0$ si no la cumple.

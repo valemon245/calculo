@@ -4,7 +4,6 @@ aliases:
   - cardinal
 ---
 # cardinal
-#lógica 
 
 >[!abstract] definición
 >la cantidad de elementos en un [[conjunto]] finito.

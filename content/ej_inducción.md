@@ -2,7 +2,6 @@
 Created: 2024-04-27
 ---
 # inducción: ejercicios
-#matematica 
 
 >[!emoji] 📌 
 >[[principio de inducción completa]]

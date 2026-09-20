@@ -2,7 +2,6 @@
 Created: 2024-06-25
 ---
 # sistema homogéneo
-#ecuaciones 
 
 >[!abstract] definición
 >[[sistema de ecuaciones lineales]] donde todos los términos independientes son nulos.

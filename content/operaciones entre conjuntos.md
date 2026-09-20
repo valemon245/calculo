@@ -2,7 +2,6 @@
 Created: 2024-03-29
 ---
 # operaciones entre conjuntos
-#lógica #conjuntos 
 
 >[!abstract] definición
 >símbolos que conectan [[conjunto|conjuntos]] para crear otros conjuntos.

@@ -6,7 +6,6 @@ aliases:
   - relación de orden estricto
 ---
 # clasificación de relaciones definidas en un conjunto
-#lógica 
 
 >[!abstract] definición
 >teniendo $R\subset A^{2}$, las posibles clasificaciones basadas en las [[propiedades de relaciones definidas en un conjunto]].

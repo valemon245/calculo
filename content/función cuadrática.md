@@ -2,7 +2,6 @@
 Created: 2024-04-02
 ---
 # función cuadrática
-#lógica #funciones 
 
 >[!abstract] definición
 >una función $f:\mathbb{R}\to \mathbb{R} / f(x)=ax^{2}+bx+c$ donde $a,b,c\in \mathbb{R}$ y $a\neq 0$.

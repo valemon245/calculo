@@ -2,7 +2,6 @@
 Created: 2024-05-20
 ---
 # permutación con repetición
-#matematica 
 
 >[!abstract] definición
 >teniendo $\alpha$ elementos de una clase, $\beta$ de otra clase, …, $\gamma$ de otra clase, siendo $\alpha+\beta+\dots+\gamma=m$, los grupos que se pueden formar tal que:

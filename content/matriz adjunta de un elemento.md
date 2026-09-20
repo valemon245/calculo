@@ -2,7 +2,6 @@
 Created: 2024-06-24
 ---
 # matriz adjunta de un elemento
-#matrices 
 
 >[!abstract] definición
 >teniendo una [[matriz cuadrada]] $A$ de orden $n$ con un elemento $a_{ij}$, la submatriz de orden $n-1$ que se obtiene al eliminar la $i$-ésima fila y la $j$-ésima columna de $A$.

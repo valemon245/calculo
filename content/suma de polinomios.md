@@ -2,7 +2,6 @@
 Created: 2024-06-21
 ---
 # suma de polinomios
-#polinomios 
 
 >[!abstract] definición
 >suma de dos [[polinomio|polinomios]].

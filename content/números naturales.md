@@ -5,7 +5,6 @@ aliases:
   - número natural
 ---
 # números naturales
-#matematica 
 
 >[!abstract] definición
 >[[conjunto]] de todos los números enteros a partir del 1.

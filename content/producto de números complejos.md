@@ -2,7 +2,6 @@
 Created: 2024-06-21
 ---
 # producto de complejos
-#números 
 
 >[!abstract] definición
 >reglas y propiedades para la operación de producto en los [[números complejos]].

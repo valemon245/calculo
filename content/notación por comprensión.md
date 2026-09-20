@@ -2,7 +2,6 @@
 Created: 2024-03-29
 ---
 # notación por comprensión
-#lógica #conjuntos 
 
 >[!abstract] definición
 >una forma de representar un [[conjunto]], donde se definen las propiedades que deben satisfacer los elementos para ser parte del mismo.

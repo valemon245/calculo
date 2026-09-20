@@ -2,7 +2,6 @@
 Created: 2024-06-20
 ---
 # coprimos 
-#números 
 
 >[!abstract] definición
 >dos [[números enteros]] no nulos tal que el [[máximo común divisor]] entre ellos es 1.

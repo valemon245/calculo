@@ -10,7 +10,6 @@ aliases:
   - arreflexiva
 ---
 # reflexividad de una relación
-#lógica 
 
 >[!abstract] definición
 >una de las [[propiedades de relaciones definidas en un conjunto]].

@@ -5,7 +5,6 @@ aliases:
   - adjunta
 ---
 # matriz adjunta de una matriz
-#matrices 
 
 >[!abstract] definición
 >teniendo una [[matriz cuadrada]] $A$, la traspuesta de la [[matriz]] que se obtiene reemplazando cada elemento de $A$ por su [[cofactor]] o adjunto.

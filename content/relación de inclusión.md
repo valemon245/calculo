@@ -2,7 +2,6 @@
 Created: 2024-03-29
 ---
 # relación de inclusión
-#lógica 
 
 >[!abstract] definición
 >propiedad que dice que un [[conjunto]] $A$ está incluído en otro conjunto $B$ cuando todos los elementos de $A$ también pertenecen a $B$, representado con $\subset$.

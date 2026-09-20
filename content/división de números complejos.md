@@ -2,7 +2,6 @@
 Created: 2024-06-21
 ---
 # división de complejos
-#números 
 
 >[!abstract] definición
 >reglas para la operación de división en el conjunto de [[números complejos]].

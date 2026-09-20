@@ -2,7 +2,6 @@
 Created: 2024-04-04
 ---
 # contradicción
-#lógica 
 
 >[!abstract] definición
 >una [[proposición lógica|proposición]] que siempre es falsa.

@@ -2,7 +2,6 @@
 Created: 2024-06-24
 ---
 # matriz cuadrada
-#matrices 
 
 >[!abstract] definición
 >una [[matriz]] con el mismo número de filas y columnas.

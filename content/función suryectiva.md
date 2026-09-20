@@ -6,7 +6,6 @@ aliases:
   - sobreyectiva
 ---
 # función suryectiva o sobreyectiva
-#funciones 
 
 >[!abstract] definición
 >una [[función]] donde a cada elemento del [[codominio]] le corresponde al menos un elemento del [[dominio de la relación|dominio]].

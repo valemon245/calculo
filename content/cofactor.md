@@ -4,7 +4,6 @@ aliases:
   - adjunto
 ---
 # cofactor o adjunto
-#matrices 
 
 >[!abstract] definición
 >teniendo una [[matriz cuadrada]] $A$, el [[menor complementario]] de un elemento $a_{ij}$ en $A$ o el opuesto de este dependiendo de si $i+j$ es par o impar, respectivamente.

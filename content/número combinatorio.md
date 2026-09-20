@@ -5,7 +5,6 @@ aliases:
   - coeficiente binomial
 ---
 # número combinatorio
-#matematica 
 
 >[!abstract] definición
 >teniendo dos enteros no negativos $m$ y $n$ donde $n\leqslant m$, notación que representa el número de formas en que se pueden conseguir grupos de $n$ componentes a partir de un [[conjunto]] de $m$ elementos, sin importar su orden.

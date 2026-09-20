@@ -9,7 +9,6 @@ aliases:
   - axioma del supremo
 ---
 # números reales
-#matematica 
 
 >[!abstract] definición
 >[[conjuntos numéricos|conjunto numérico]] que incluye a los [[números racionales]] e [[números irracionales|irracionales]].

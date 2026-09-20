@@ -2,7 +2,6 @@
 Created: 2024-04-02
 ---
 # función lineal
-#lógica #funciones 
 
 >[!abstract] definición
 >una [[función]] de estructura $f:\mathbb{R}\to \mathbb{R} /f(x)=ax+b$ donde $a,b\in \mathbb{R}$.

@@ -2,7 +2,6 @@
 Created: 2024-06-10
 ---
 # divisores
-#números 
 
 >[!abstract] definición
 >siendo $a,b\in\mathbb{Z}$ y $b\neq 0$, caso especial donde la [[algoritmo de la división|división]] de $a$ por $b$ tiene resto 0.

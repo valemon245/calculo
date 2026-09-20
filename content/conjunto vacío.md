@@ -4,7 +4,6 @@ aliases:
   - vacío
 ---
 # conjunto vacío
-#lógica #conjuntos 
 
 >[!abstract] definición
 >un [[conjunto]] sin elementos.

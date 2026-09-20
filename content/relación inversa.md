@@ -2,7 +2,6 @@
 Created: 2024-03-30
 ---
 # relación inversa
-#lógica 
 
 >[!abstract] definición
 >si tenemos una [[relación binaria|relación]] incluida en $A\times B$, su relación inversa es un subconjunto de $B\times A$, donde el orden de sus [[par ordenado|pares ordenados]] es invertido.

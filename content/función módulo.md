@@ -2,7 +2,6 @@
 Created: 2024-04-02
 ---
 # función módulo
-#funciones 
 
 >[!abstract] definición
 >[[función]] que toma un [[números reales|número real]] y devuelve su valor absoluto.

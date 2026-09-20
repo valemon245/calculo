@@ -2,7 +2,6 @@
 Created: 2024-05-20
 ---
 # permutación simple
-#matematica 
 
 >[!abstract] definición
 >todos los [[arreglo simple|arreglos simples]] que se pueden formar usando todos los $m$ elementos. 

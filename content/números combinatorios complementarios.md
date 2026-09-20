@@ -2,7 +2,6 @@
 Created: 2024-05-20
 ---
 # combinatorios complementarios
-#matematica 
 
 >[!abstract] definición
 >dos [[número combinatorio|números combinatorios]] iguales.

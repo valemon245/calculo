@@ -4,7 +4,6 @@ aliases:
   - mcd
 ---
 # máximo común divisor
-#números 
 
 >[!abstract] definición
 >el mayor número natural que divide a dos [[números enteros]] a la vez sin dejar resto.

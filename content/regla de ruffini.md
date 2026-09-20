@@ -2,7 +2,6 @@
 Created: 2024-06-21
 ---
 # regla de ruffini
-#polinomios 
 
 >[!abstract] definición
 >método de [[división de polinomios]], en el caso especial donde el divisor es un [[polinomio]] mónico de grado 1.

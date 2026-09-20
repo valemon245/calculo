@@ -3,7 +3,6 @@ Created: 2023-09-09
 aliases: 
 ---
 # propiedad conmutativa
-#matematica 
 
 > El orden de los factores no altera el producto.
 

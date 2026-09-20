@@ -4,7 +4,6 @@ aliases:
   - dominio
 ---
 # dominio
-#lógica 
 
 >[!abstract] definición
 >[[conjunto]] de las primeras componentes en los [[par ordenado|pares ordenados]] de una [[relación binaria|relación]].

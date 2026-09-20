@@ -2,7 +2,6 @@
 Created: 2024-06-21
 ---
 # división de polinomios
-#polinomios 
 
 >[!abstract] definición
 >división de dos [[polinomio|polinomios]].

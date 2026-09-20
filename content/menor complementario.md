@@ -2,7 +2,6 @@
 Created: 2024-06-24
 ---
 # menor complementario
-#matrices 
 
 >[!abstract] definición
 >teniendo una [[matriz cuadrada]] $A$ de elementos $a_{ij}$, el [[determinante de una matriz|determinante]] de la [[matriz adjunta de un elemento|matriz adjunta del elemento]] $a_{ij}$.

@@ -4,7 +4,6 @@ aliases:
   - conjunto referencial
 ---
 # conjunto universal
-#lógica #conjuntos 
 
 >[!abstract] definición
 >el [[conjunto]] de todos los elementos que se están utilizando en un contexto dado.

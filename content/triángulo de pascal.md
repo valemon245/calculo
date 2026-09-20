@@ -4,7 +4,6 @@ aliases:
   - triángulo de tartaglia
 ---
 # triángulo de pascal o de tartaglia
-#matematica 
 
 >[!abstract] definición
 >disposición ordenada de todos los [[número combinatorio|números combinatorios]] en forma de triángulo.

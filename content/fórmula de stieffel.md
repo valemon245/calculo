@@ -2,7 +2,6 @@
 Created: 2024-05-20
 ---
 # fórmula de stieffel
-#matematica 
 
 >[!abstract] definición
 >fórmula que dice que la suma de dos [[número combinatorio|números combinatorios]] de igual base y órdenes consecutivas da por resultado el número combinatorio de orden $n$ y base $m+1$.

@@ -2,7 +2,6 @@
 Created: 2024-06-10
 ---
 # división euclídea
-#números 
 
 >[!abstract] definición
 >teorema que asegura que la división entre [[números enteros]] es posible.

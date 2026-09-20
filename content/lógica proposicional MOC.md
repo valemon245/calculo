@@ -4,10 +4,6 @@ aliases:
   - lógica proposicional
 ---
 # lógica proposicional
-#lógica #🗺️ 
-
->[!emoji] ⭐ 
->tema de [[uni_algebra]]
 
 >[!abstract] definición
 >rama de la lógica matemática que estudia las [[proposición lógica|proposiciones lógicas]], sus características y las posibles operaciones entre ellas.

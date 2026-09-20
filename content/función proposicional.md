@@ -2,7 +2,6 @@
 Created: 2024-03-10
 ---
 # función proposicional
-#lógica #funciones 
 
 >[!abstract] definición
 >una [[proposición lógica|proposición]] que contiene una o más variables y cuyo valor de verdad dependerá del valor que tomen dichas variables.

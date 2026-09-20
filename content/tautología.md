@@ -4,7 +4,6 @@ aliases:
   - ley lógica
 ---
 # tautología o ley lógica
-#lógica 
 
 >[!abstract] definición
 >una [[proposición lógica|proposición]] que siempre es verdadera.
